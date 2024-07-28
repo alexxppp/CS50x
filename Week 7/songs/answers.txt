@@ -1,0 +1,9 @@
+To calculate the Audio Aura or a specific listener taking the 100 most listened songs of said user, I would implement a function
+that uses a formula to determine the Aura's vaue. Said formula`s output would be the average between the energy, valence, and
+danceability of the user`s top 100 songs from the past year. The formula would look something like this:
+Audio_Aura = average(avg(energy), avg(valence), avg(danceability))
+Where avg(parameter) equals the average value of said parameter of the top 100 songs of the user
+
+This way of calculating the Aura of a user may be misleading due to the lack of diversity in the parameters, which are only three.
+To improve the Audio Aura's approximation, we could implement all the values that a song has. The result value of this calculation
+would be useful in other field related ot the user`s experience such as songs recommentations.
