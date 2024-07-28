@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It performed differentely in all the tests, indicating the inconsistent efficency level of the software
+
+sort2 uses: merge sort
+
+How do you know?: It had a high performance during all tests, which is a sign of a well designed and efficient code
+
+sort3 uses: selection sort
+
+How do you know?: Out of the three programs, this one was the slowest. It performed poorly in all the tests
