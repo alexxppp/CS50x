@@ -1,0 +1,40 @@
+10 HTML tags:
+    <h1>,
+    <i>,
+    <br>,
+    <nav>,
+    <div>,
+    <h2>,
+    <p>,
+    <nav>,
+    <form>,
+    <img>,
+    <h3>,
+    <input>,
+    <ul>,
+    <li>,
+    etc...
+
+5 CSS properties:
+    height,
+    background-image,
+    margin-top,
+    font-weight,
+    font-family,
+    z-index,
+    text-shadow,
+    etc...
+
+5 CSS selectors:
+    .class (class selector),
+    #id (id selector),
+    tag (tag selector),
+    selector:hover (hover selector),
+    selector sub-tag (sub-selection selector)
+
+Brief explanation about Javascript implementation:
+    The only functionality my Javascript has is to change the color of the current page`s navigation bar
+    according to the page where you find yourself
+
+Brief explanation about Bootstrap implementation:
+    I used Bootstrap to give some style in my Contact.html file. I`ve used 'col-md-6'
